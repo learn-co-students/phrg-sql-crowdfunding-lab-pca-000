@@ -5,3 +5,5 @@ languages:
   - ruby
   - sql
 resources: 3
+
+parent_template: git@github.com:learn-co-curriculum/sql-crowdfunding-lab.git
